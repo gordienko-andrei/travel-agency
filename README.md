@@ -13,7 +13,7 @@
 
 ## Использование
 
-1. Перейдите по ссылке  (https://gordienko-andrei.github.io/global-talk-project/).
+1. Перейдите по ссылке  (https://gordienko-andrei.github.io/travel-agency/).
 2. Следуйте навигации на сайте.
 
 ## Функционал
